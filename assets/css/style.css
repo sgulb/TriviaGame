@@ -1,0 +1,28 @@
+body {
+    background-image: url("background.jpg");
+}
+
+.container {
+    background: #F7FF90;
+    min-height: 650px;
+}
+
+#content h2 {
+    margin-bottom: 3%;
+}
+
+#content div {
+    margin-bottom:3%;
+    margin-top: 2%;
+    font-size: 28px;
+}
+
+button {
+    min-width: 50%;
+}
+
+.btn-default {
+    background: #3BF9E4;
+    font-size: 28px;
+    /*margin-bottom: 3%;*/
+}
